@@ -149,10 +149,11 @@ sponsors:
   - sponsorlevel: Silver
 
 
-scheduleurl:
+scheduleurl: https://sessionize.com/api/v2/qjjxxn1u/view/GridSmart
+scheduleapp: https://data-saturday-40-brisbane.sessionize.com/
 
-speakerlisturl: https://sessionize.com/data-saturday-40-brisbane
-callforspeakers: true
+speakerlisturl: https://sessionize.com/api/v2/qjjxxn1u/view/SpeakerWall
+callforspeakers: false
 
 volunteerrequesturl: mailto:warwick@sqlmastersconsulting.com.au
 organizers:
